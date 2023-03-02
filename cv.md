@@ -25,6 +25,7 @@ Anticipated Ph.D in Astronomy
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 __First Author__
+
 **Beyond Gaia: Asteroseismic Distances of M Giants Using Ground-based Transent Surveys**
 Connor W. Auge, Daniel Huber, et al.
 [Accepted to ApJ.](https://ui.adsabs.harvard.edu/abs/2020AJ....160...18A/abstract)
