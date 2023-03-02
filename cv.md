@@ -19,16 +19,16 @@ MS in Astronomy
 __University of Hawaii__
 Anticipated Ph.D in Astronomy 
 
-## Awards
-
-`2012`
-Name of Award, Organization 
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+__First Author__
+**Beyond Gaia: Asteroseismic Distances of M Giants Using Ground-based Transent Surveys**
+Connor W. Auge, Daniel Huber, et al.
+[Accepted to ApJ.](https://ui.adsabs.harvard.edu/abs/2020AJ....160...18A/abstract)
+
 
 `1994`
 Article Title, Journal Title
@@ -36,13 +36,6 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
@@ -50,6 +43,10 @@ Book Title, Journal Title
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
+## Awards
+
+`2012`
+Name of Award, Organization 
 
 ## Occupation
 
