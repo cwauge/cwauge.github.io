@@ -3,17 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student at the Institute for Astronomy, University of Hawaii Manoa
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2017`
+__Northern Arizona University__
+BS in Physics and Astronommy with a minor in Mathematics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 - 2019`
+__University of Hawaii__
+MS in Astronomy 
+
+`2019 - 2023`
+__University of Hawaii__
+Anticipated Ph.D in Astronomy 
 
 ## Awards
 
