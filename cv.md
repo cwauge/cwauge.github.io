@@ -33,29 +33,31 @@ Connor W. Auge, Daniel Huber, et al.
 __Contributing Author__
 
 **Probing the Structure and Evolution of BASS AGN through Eddington Ratios**
-Tonima Ananna et al. incl. Connor W. Auge
+- Tonima Ananna et al. incl. Connor W. Auge
 
 **On the cosmic evolution of AGN aobscuration and the X-ray luminosity function: XMM-Newton and Chandra spectral analysis of the 31.1 deg2 Stripe 82X**
-Alessandro Peca et al. incl. Connor W. Auge
+- Alessandro Peca et al. incl. Connor W. Auge
 
 **Accretion history of AGN: Estimating the host galaxy properties in X-ray luminous AGN from z = 0 - 3.**
-Brandon Coleman et al. incl. Connor W. Auge
+- Brandon Coleman et al. incl. Connor W. Auge
 
 **GaMPEN: A Machine Learning Framework for Esitmating Bayesian Posteriors of Galaxy Morphological Parameters**
-Aritra Ghosh et al. incl. Connor W. Auge
+- Aritra Ghosh et al. incl. Connor W. Auge
 
 **An AMUSING look at the host of the periodic nuclear transient ASASSN-14ko reveals a second AGN**
-Michael A. Tucker et al. incl. Connor W. Auge
+- Michael A. Tucker et al. incl. Connor W. Auge
 
 
 
 ## Presentations
 `June 2022`
 **The Accretion History of AGN: The Spectral Energy Distributions of X-ray luminous AGN**
+
 The 240th Meeting of the American Astronomical Society - Passadena, CA
 
 `October 2019`
 **Analyzing SEDs of X-ray Luminous AGN**
+
 The Accretion History of AGN workshop - Miami, FL
 
 ## Honors and Awards
@@ -64,6 +66,7 @@ __Observing__
 2 successful observing proposals as P.I. for a total of 4.5 nights on the Subaru Telescope
 
 __Undergraduate__
+
 `2016`
 Northern Arizona University NASA Spae Grant
 `2016`
@@ -81,13 +84,13 @@ Sigma Pi Sigma National Physics Honor Society
 `Fall 2018 - Spring 2019`
 __Lab Instructor__, University of Hawai'i at Manoa, Dept. of Astronomy
 
-ASTR 110L: Survey of Astronomy Lab
+- ASTR 110L: Survey of Astronomy Lab
 
 `Fall 2017 - Spring 2018`
 __Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
 
-ASTR 110: Survey of Astronomy
-ASTR 110L: Survey of Astronomy Lab
+- ASTR 110: Survey of Astronomy
+- ASTR 110L: Survey of Astronomy Lab
 
 
 <!-- ### Footer
