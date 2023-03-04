@@ -48,42 +48,50 @@ Aritra Ghosh et al. incl. Connor W. Auge
 Michael A. Tucker et al. incl. Connor W. Auge
 
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-
 
 ## Presentations
+`June 2022`
+**The Accretion History of AGN: The Spectral Energy Distributions of X-ray luminous AGN**
+The 240th Meeting of the American Astronomical Society - Passadena, CA
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`October 2019`
+**Analyzing SEDs of X-ray Luminous AGN**
+The Accretion History of AGN workshop - Miami, FL
 
-## Awards
+## Honors and Awards
+__Observing__
 
-`2012`
-Name of Award, Organization 
+2 successful observing proposals as P.I. for a total of 4.5 nights on the Subaru Telescope
 
-## Occupation
+__Undergraduate__
+`2016`
+Northern Arizona University NASA Spae Grant
+`2016`
+Hooper Undergraduate Research Award
+`2015`
+Arthur and Catherine Adel Scholarship 
+`2015`
+Chair Scholar Award for Physcis and Astronomy 
+`2015`
+Sigma Pi Sigma National Physics Honor Society
 
-`Current`
-__Current Job Title__, Current Employer 
 
-- Task
-- Task
+## Teaching Positions
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Fall 2018 - Spring 2019`
+__Lab Instructor__, University of Hawai'i at Manoa, Dept. of Astronomy
 
-- Task
-- Task
+ASTR 110L: Survey of Astronomy Lab
 
+`Fall 2017 - Spring 2018`
+__Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
+
+ASTR 110: Survey of Astronomy
+ASTR 110L: Survey of Astronomy Lab
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
