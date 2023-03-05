@@ -7,6 +7,8 @@ I am an astronomy graduate student working with Professor Dave Sanders at the In
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Postdoctoral Research Positions
+- The Accretion History of AGN (AHA) collaboration
+- The COSMOS-Web Program
+- SMBH mass measurements
+
