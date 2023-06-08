@@ -26,6 +26,10 @@ Anticipated Ph.D in Astronomy
 
 __First Author__
 
+**The Accretion History of AGN: SEDs of X-ray Luminous AGN**
+Connor W. Auge, Dave Sanders, et al.
+Submitted to ApJ.
+
 **Beyond Gaia: Asteroseismic Distances of M Giants Using Ground-based Transent Surveys**
 Connor W. Auge, Daniel Huber, et al.
 [Accepted to ApJ.](https://ui.adsabs.harvard.edu/abs/2020AJ....160...18A/abstract)
