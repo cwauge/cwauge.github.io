@@ -5,6 +5,11 @@ excerpt: "Recent Presentations"
 ---
 
 ## Presentations
+`May 2023`
+**Spectral Energy Distributinos of X-ray luminous AGN**
+
+The COSMOS 2023 team meeting - Rocheester, NY
+
 `June 2022`
 **The Accretion History of AGN: The Spectral Energy Distributions of X-ray luminous AGN**
 
