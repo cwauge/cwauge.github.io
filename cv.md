@@ -54,8 +54,8 @@ __Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
 - ASTR 110L: Survey of Astronomy Lab
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: March 2023 -->
+Last updated: March 2023
 
 
