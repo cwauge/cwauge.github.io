@@ -20,11 +20,14 @@ Connor W. Auge, Daniel Huber, et al.
 
 __Contributing Author__
 
-**Probing the Structure and Evolution of BASS AGN through Eddington Ratios**
-Tonima Ananna et al. incl. Connor W. Auge
+**Using Machine Learning to Determine Morphologies of z < 1 AGN Host Galaxies in the Hyper Suprime-Cam Wide Survey**
+Tian, Chuan et al. incl. Connor W. Auge
 
 **On the cosmic evolution of AGN aobscuration and the X-ray luminosity function: XMM-Newton and Chandra spectral analysis of the 31.1 deg2 Stripe 82X**
 Alessandro Peca et al. incl. Connor W. Auge
+
+**Probing the Structure and Evolution of BASS AGN through Eddington Ratios**
+Tonima Ananna et al. incl. Connor W. Auge
 
 **Accretion history of AGN: Estimating the host galaxy properties in X-ray luminous AGN from z = 0 - 3.**
 Brandon Coleman et al. incl. Connor W. Auge
