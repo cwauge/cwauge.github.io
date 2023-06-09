@@ -40,47 +40,43 @@ Derived photometric filter transformations utilizing large stellar catalogs for 
 ## Mentoring/Advising Expereince
 `Summer 2022`
 __University of Hawaii - Thresa Kelly__<br/>
-Undergraduate, University of Kansas. - IfA REU Program
-
+Undergraduate, University of Kansas. - IfA REU Program<br/>
 I designed the research project and served as the primary mentor and advisor for Thresa Kelly during her time in the IfA REU program. The project focused on comparing the multiwavelength properties of AGN that have been selected through varying techniques.
 
 `Summer 2022`
 __University of Hawaii - Aurelie Wolf__<br/>
-Undergraduate University of Hawai'i Manoa. - Summer Research Project 
-
+Undergraduate University of Hawai'i Manoa. - Summer Research Project<br/>
 I assisted in advising and mentoring Aurelie Wolf as she completed a summer research project. The project consisted of the visual classification of galaxy images to identify signs of mergers in AGN hosts.
 
 `Summer 2021 and Summer 2023`
 __University of Hawaii - William Jarvis__<br/>
-Undergraduate, University of Wisconsin, Madison. - IfA REU Program
-
+Undergraduate, University of Wisconsin, Madison. - IfA REU Program<br/>
 I designed the research project and served as the primary mentor and advisor for William Jarvis during his time in the IfA REU program. The project focused on visually classifying the host galaxies of AGN and analyzing the multiwavelength properties to constrain the evolutionary phase of the AGN.
 
 `Summer 2019`
 __University of Hawaii - Kaitlynn Lilly__<br/>
-Undergraduate, University of Maryland, Baltimore County. - IfA REU Program
-
+Undergraduate, University of Maryland, Baltimore County. - IfA REU Program<br/>
 I served as the primary mentor and advisor for Kaitlynn Lilly during her time in the IfA REU program. The project focused on characterizing the SEDs and of X-ray selected AGN by their spectral type.
 
 ## Teaching Positions
 
 `Fall 2018 - Spring 2019`
-__Lab Instructor__, University of Hawai'i at Manoa, Dept. of Astronomy
-
+__Lab Instructor__<br/>
+University of Hawai'i at Manoa, Dept. of Astronomy<br/>
 - ASTR 110L: Survey of Astronomy Lab
 
 `Fall 2017 - Spring 2018`
-__Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
-
+__Teaching Assistant__<br/>
+University of Hawai'i at Manoa, Dept. of Astronomy<br/>
 - ASTR 110: Survey of Astronomy
 - ASTR 110L: Survey of Astronomy Lab
 
 
 ## Honors
-__Observing__
+__Observing__<br/>
 2 successful observing proposals as P.I. for a total of 4.5 nights on the Subaru Telescope
 
-__Awards__
+__Awards__<br/>
 `2023`
 Helen Jones Farrar ARCS Award<br/>
 `2016`
