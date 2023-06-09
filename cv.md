@@ -78,28 +78,30 @@ __Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
 
 ## Honors
 __Observing__
-
 2 successful observing proposals as P.I. for a total of 4.5 nights on the Subaru Telescope
 
 __Awards__
-
 `2023`
-Helen Jones Farrar ARCS Award
-
+Helen Jones Farrar ARCS Award<br/>
 `2016`
-Northern Arizona University NASA Spae Grant
-
+Northern Arizona University NASA Spae Grant<br/>
 `2016`
-Hooper Undergraduate Research Award
-
+Hooper Undergraduate Research Award<br/>
 `2015`
-Arthur and Catherine Adel Scholarship 
-
+Arthur and Catherine Adel Scholarship<br/> 
 `2015`
-Chair Scholar Award for Physcis and Astronomy 
-
+Chair Scholar Award for Physcis and Astronomy<br/> 
 `2015`
-Sigma Pi Sigma National Physics Honor Society
+Sigma Pi Sigma National Physics Honor Society<br/>
+
+
+## Technical Skills
+- OSX systems
+- Python
+- Code for Investigating Galaxy Evolution (CIGALE)
+- IRAF
+- GitHub
+- SAOImagesDS9
 
 
 
