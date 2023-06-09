@@ -20,22 +20,22 @@ Connor W. Auge, Daniel Huber, et al.
 
 __Contributing Author__
 
-**Using Machine Learning to Determine Morphologies of z < 1 AGN Host Galaxies in the Hyper Suprime-Cam Wide Survey**
+**Using Machine Learning to Determine Morphologies of z < 1 AGN Host Galaxies in the Hyper Suprime-Cam Wide Survey**<br>
 Tian, Chuan et al. incl. Connor W. Auge
 
-**On the cosmic evolution of AGN aobscuration and the X-ray luminosity function: XMM-Newton and Chandra spectral analysis of the 31.1 deg2 Stripe 82X**
+**On the cosmic evolution of AGN aobscuration and the X-ray luminosity function: XMM-Newton and Chandra spectral analysis of the 31.1 deg2 Stripe 82X**<br>
 Alessandro Peca et al. incl. Connor W. Auge
 
-**Probing the Structure and Evolution of BASS AGN through Eddington Ratios**
+**Probing the Structure and Evolution of BASS AGN through Eddington Ratios**<br>
 Tonima Ananna et al. incl. Connor W. Auge
 
-**Accretion history of AGN: Estimating the host galaxy properties in X-ray luminous AGN from z = 0 - 3.**
+**Accretion history of AGN: Estimating the host galaxy properties in X-ray luminous AGN from z = 0 - 3.**<br>
 Brandon Coleman et al. incl. Connor W. Auge
 
-**GaMPEN: A Machine Learning Framework for Esitmating Bayesian Posteriors of Galaxy Morphological Parameters**
+**GaMPEN: A Machine Learning Framework for Esitmating Bayesian Posteriors of Galaxy Morphological Parameters**<br>
 Aritra Ghosh et al. incl. Connor W. Auge
 
-**An AMUSING look at the host of the periodic nuclear transient ASASSN-14ko reveals a second AGN**
+**An AMUSING look at the host of the periodic nuclear transient ASASSN-14ko reveals a second AGN**<br>
 Michael A. Tucker et al. incl. Connor W. Auge
 
 <!-- - [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial) -->
