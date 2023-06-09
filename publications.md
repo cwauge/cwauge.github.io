@@ -4,11 +4,11 @@ title: Publications
 excerpt: "Recent Publications"
 ---
 
-## Publications
+<!-- ## Publications -->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-__First Author__
+## First Author
 
 **The Accretion History of AGN: SEDs of X-ray Luminous AGN**
 Connor W. Auge, Dave Sanders, et al.
@@ -18,7 +18,7 @@ Submitted to ApJ.
 Connor W. Auge, Daniel Huber, et al.
 [Accepted to ApJ.](https://ui.adsabs.harvard.edu/abs/2020AJ....160...18A/abstract)
 
-__Contributing Author__
+## Contributing Author
 
 **Using Machine Learning to Determine Morphologies of z < 1 AGN Host Galaxies in the Hyper Suprime-Cam Wide Survey**<br>
 Tian, Chuan et al. incl. Connor W. Auge
