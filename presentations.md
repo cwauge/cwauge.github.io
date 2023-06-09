@@ -3,6 +3,7 @@ layout: presentation-post-index
 title: Presentations
 excerpt: "Recent Presentations"
 ---
+
 ## Presentations
 `June 2022`
 **The Accretion History of AGN: The Spectral Energy Distributions of X-ray luminous AGN**
