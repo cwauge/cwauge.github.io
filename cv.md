@@ -66,14 +66,19 @@ __Observing__
 __Awards__
 `2023`
 Honolulu ARCS Award
+
 `2016`
 Northern Arizona University NASA Spae Grant
+
 `2016`
 Hooper Undergraduate Research Award
+
 `2015`
 Arthur and Catherine Adel Scholarship 
+
 `2015`
 Chair Scholar Award for Physcis and Astronomy 
+
 `2015`
 Sigma Pi Sigma National Physics Honor Society
 
