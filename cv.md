@@ -40,23 +40,23 @@ Derived photometric filter transformations utilizing large stellar catalogs for 
 ## Mentoring/Advising Expereince
 `Summer 2022`
 __University of Hawaii - Thresa Kelly__<br/>
-Undergraduate, University of Kansas. - IfA REU Program<br/>
-I designed the research project and served as the primary mentor and advisor for Thresa Kelly during her time in the IfA REU program. The project focused on comparing the multiwavelength properties of AGN that have been selected through varying techniques.
+Undergraduate, University of Kansas. - IfA REU Program
+- I designed the research project and served as the primary mentor and advisor for Thresa Kelly during her time in the IfA REU program. The project focused on comparing the multiwavelength properties of AGN that have been selected through varying techniques.
 
 `Summer 2022`
 __University of Hawaii - Aurelie Wolf__<br/>
-Undergraduate University of Hawai'i Manoa. - Summer Research Project<br/>
-I assisted in advising and mentoring Aurelie Wolf as she completed a summer research project. The project consisted of the visual classification of galaxy images to identify signs of mergers in AGN hosts.
+Undergraduate University of Hawai'i Manoa. - Summer Research Project
+- I assisted in advising and mentoring Aurelie Wolf as she completed a summer research project. The project consisted of the visual classification of galaxy images to identify signs of mergers in AGN hosts.
 
 `Summer 2021 and Summer 2023`
 __University of Hawaii - William Jarvis__<br/>
-Undergraduate, University of Wisconsin, Madison. - IfA REU Program<br/>
-I designed the research project and served as the primary mentor and advisor for William Jarvis during his time in the IfA REU program. The project focused on visually classifying the host galaxies of AGN and analyzing the multiwavelength properties to constrain the evolutionary phase of the AGN.
+Undergraduate, University of Wisconsin, Madison. - IfA REU Program
+- I designed the research project and served as the primary mentor and advisor for William Jarvis during his time in the IfA REU program. The project focused on visually classifying the host galaxies of AGN and analyzing the multiwavelength properties to constrain the evolutionary phase of the AGN.
 
 `Summer 2019`
 __University of Hawaii - Kaitlynn Lilly__<br/>
-Undergraduate, University of Maryland, Baltimore County. - IfA REU Program<br/>
-I served as the primary mentor and advisor for Kaitlynn Lilly during her time in the IfA REU program. The project focused on characterizing the SEDs and of X-ray selected AGN by their spectral type.
+Undergraduate, University of Maryland, Baltimore County. - IfA REU Program
+- I served as the primary mentor and advisor for Kaitlynn Lilly during her time in the IfA REU program. The project focused on characterizing the SEDs and of X-ray selected AGN by their spectral type.
 
 ## Teaching Positions
 
