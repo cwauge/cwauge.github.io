@@ -61,13 +61,13 @@ I served as the primary mentor and advisor for Kaitlynn Lilly during her time in
 ## Teaching Positions
 
 `Fall 2018 - Spring 2019`
-__Lab Instructor__
-University of Hawai'i at Manoa, Dept. of Astronomy<br/>
+__Lab Instructor__<br/>
+University of Hawai'i at Manoa, Dept. of Astronomy
 - ASTR 110L: Survey of Astronomy Lab
 
 `Fall 2017 - Spring 2018`
-__Teaching Assistant__
-University of Hawai'i at Manoa, Dept. of Astronomy<br/>
+__Teaching Assistant__<br/>
+University of Hawai'i at Manoa, Dept. of Astronomy
 - ASTR 110: Survey of Astronomy
 - ASTR 110L: Survey of Astronomy Lab
 
