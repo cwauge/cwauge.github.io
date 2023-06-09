@@ -58,14 +58,29 @@ __University of Hawaii - Kaitlynn Lilly__
 Undergraduate, University of Maryland, Baltimore County. - IfA REU Program
 I served as the primary mentor and advisor for Kaitlynn Lilly during her time in the IfA REU program. The project focused on characterizing the SEDs and of X-ray selected AGN by their spectral type.
 
-## Honors and Awards
+## Teaching Positions
+
+`Fall 2018 - Spring 2019`
+__Lab Instructor__, University of Hawai'i at Manoa, Dept. of Astronomy
+
+- ASTR 110L: Survey of Astronomy Lab
+
+`Fall 2017 - Spring 2018`
+__Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
+
+- ASTR 110: Survey of Astronomy
+- ASTR 110L: Survey of Astronomy Lab
+
+
+## Honors
 __Observing__
 
 2 successful observing proposals as P.I. for a total of 4.5 nights on the Subaru Telescope
 
 __Awards__
+
 `2023`
-Honolulu ARCS Award
+Helen Jones Farrar ARCS Award
 
 `2016`
 Northern Arizona University NASA Spae Grant
@@ -83,18 +98,7 @@ Chair Scholar Award for Physcis and Astronomy
 Sigma Pi Sigma National Physics Honor Society
 
 
-## Teaching Positions
 
-`Fall 2018 - Spring 2019`
-__Lab Instructor__, University of Hawai'i at Manoa, Dept. of Astronomy
-
-- ASTR 110L: Survey of Astronomy Lab
-
-`Fall 2017 - Spring 2018`
-__Teaching Assistant__, University of Hawai'i at Manoa, Dept. of Astronomy
-
-- ASTR 110: Survey of Astronomy
-- ASTR 110L: Survey of Astronomy Lab
 
 
 <!-- ### Footer -->
