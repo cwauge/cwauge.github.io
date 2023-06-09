@@ -4,7 +4,7 @@ title: Presentations
 excerpt: "Recent Presentations"
 ---
 
-## Presentations
+## Oral Presentations
 `May 2023`
 **Spectral Energy Distributinos of X-ray luminous AGN**
 
