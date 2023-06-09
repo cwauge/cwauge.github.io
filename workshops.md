@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-excerpt: "Recent Publications"
+title: Workshops
+excerpt: "Recent Workshops"
 ---
 
 ## Publications
