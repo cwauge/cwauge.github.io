@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-index
 title: Presentations
 excerpt: "Recent Presentations"
 ---
