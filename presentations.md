@@ -27,6 +27,6 @@ The 235th Meeting of the American Astronomical Society
 Society for the Advancement of Chicanos, Hispanics, and Native Americans in STEM Conference
 
 `January 2017`
-**Turbulence and Star Formation in Interacting Galaxies**
+**Turbulence and Star Formation in Interacting Galaxies**<br/>
 The 229th Meeting of the American Astronomical Society
 
