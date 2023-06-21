@@ -80,7 +80,7 @@ __Awards__<br/>
 `2023`
 Helen Jones Farrar ARCS Award<br/>
 `2016`
-Northern Arizona University NASA Spae Grant<br/>
+Northern Arizona University NASA Space Grant<br/>
 `2016`
 Hooper Undergraduate Research Award<br/>
 `2015`
