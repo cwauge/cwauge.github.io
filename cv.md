@@ -19,7 +19,11 @@ MS in Astronomy
 __Northern Arizona University__<br/>
 BS in Physics and Astronommy with a minor in Mathematics
 
-## Research Experience
+## Research Positions
+`May 2024 - Present`
+__Eureka Scientific Inc. - Postdoctoral Research Assistant to Dr. Mike Koss__<br/>
+Constructed resolved SEDs for the nuclear region of nearby active galactic nuclei (AGN) to accurately determine instrinsic properties of both the AGN and host galaxies.
+
 `August 2018 - Present`
 __University of Hawaii - Research Assistant to Dr. Dave Sanders__<br/>
 Conducted research to analyze the multiwavelength properties of active galactic nuclei (AGN). Generated Python software to produce spectral energy distributions (SEDs) and derive fundamental parameters of AGN and their host galaxies. Utilized advance SED fitting software, CIGALE, to fit physical models to multiwavelength data. Conducted extensive research with the Accretion History of AGN (AHA) collaboration.
