@@ -10,9 +10,13 @@ excerpt: "Recent Publications"
 
 ## First Author
 
-**The Accretion History of AGN: SEDs of X-ray Luminous AGN**<br/>
+**The Accretion History of AGN: Bolometric Luminosities and Host Galaxy Properties**<br/>
 Connor W. Auge, Dave Sanders, et al.
 Submitted to ApJ.
+
+**The Accretion History of AGN: SEDs of X-ray Luminous AGN**<br/>
+Connor W. Auge, Dave Sanders, et al.
+[Accepted to ApJ.](https://ui.adsabs.harvard.edu/abs/2023ApJ...957...19A/abstract)
 
 **Beyond Gaia: Asteroseismic Distances of M Giants Using Ground-based Transent Surveys**<br/>
 Connor W. Auge, Daniel Huber, et al.
