@@ -7,17 +7,17 @@ Graduate Student at the Institute for Astronomy, University of Hawaii Manoa
 
 ## Education
 
-`2013 - 2017`
-__Northern Arizona University__<br/>
-BS in Physics and Astronommy with a minor in Mathematics
+`2019 - 2024`
+__University of Hawaii__<br/>
+Ph.D in Astronomy 
 
 `2017 - 2019`
 __University of Hawaii__<br/>
 MS in Astronomy 
 
-`2019 - 2023`
-__University of Hawaii__<br/>
-Anticipated Ph.D in Astronomy 
+`2013 - 2017`
+__Northern Arizona University__<br/>
+BS in Physics and Astronommy with a minor in Mathematics
 
 ## Research Experience
 `August 2018 - Present`
@@ -105,6 +105,6 @@ Sigma Pi Sigma National Physics Honor Society<br/>
 
 <!-- ### Footer -->
 
-Last updated: June 2023
+Last updated: May 16
 
 
