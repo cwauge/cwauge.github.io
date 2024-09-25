@@ -3,13 +3,13 @@ layout: resume
 ---
 ## Currently
 
-Graduate Student at the Institute for Astronomy, University of Hawaii Manoa
+Postdoctoral Researcher at Eureka Scientific Inc. with the BAT AGN Spectroscopic Survey (BASS).
 
 ## Education
 
 `2019 - 2024`
 __University of Hawaii__<br/>
-Ph.D in Astronomy 
+PhD in Astronomy 
 
 `2017 - 2019`
 __University of Hawaii__<br/>
