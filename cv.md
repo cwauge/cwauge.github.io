@@ -99,6 +99,7 @@ Sigma Pi Sigma National Physics Honor Society<br/>
 - OSX systems
 - Python
 - Code for Investigating Galaxy Evolution (CIGALE)
+- GALFIT
 - IRAF
 - GitHub
 - SAOImagesDS9
@@ -109,6 +110,6 @@ Sigma Pi Sigma National Physics Honor Society<br/>
 
 <!-- ### Footer -->
 
-Last updated: May 16
+Last updated: September 2024
 
 
